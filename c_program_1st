@@ -1,0 +1,8 @@
+/***This is my first c program.***/
+
+#include<stdio.h>
+  int main(void)
+    {
+        printf("Hello, world. I am newbie here! \n");
+        return(0); //On most operating systems returning 0 is a success status like saying "The program worked fine". 
+    }
